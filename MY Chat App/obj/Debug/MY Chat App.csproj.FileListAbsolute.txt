@@ -1,0 +1,12 @@
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\bin\Debug\MY Chat App.exe.config
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\bin\Debug\MY Chat App.exe
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\bin\Debug\MY Chat App.pdb
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY Chat App.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY_Chat_App.Form1.resources
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY_Chat_App.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY Chat App.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY Chat App.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY Chat App.exe
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY Chat App.pdb
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY_Chat_App.Main.resources
+C:\Users\Mehmet\source\repos\MY Chat App\MY Chat App\obj\Debug\MY_Chat_App.Mesaj.resources
